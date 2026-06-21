@@ -12,6 +12,14 @@ Welcome to my repository for Phase 2 of the Graphic Design Internship at **Devel
 ## 📅 Weekly Deliverables & Project Breakdown
 
 ### 🎨 Week 1 – Brand Identity & Social Media Design
+### 🖼️ Logo Options Preview
+
+<p align="center">
+  <img src="./NexusVibe%20technologies%20-%20Final%20Logo%20File/Aapki_Logo_File_Ka_Naam.png" width="200" title="Logo Option 1" alt="Logo 1">
+  <img src="./NexusVibe%20technologies%20-%20Final%20Logo%20File/Aapki_Logo_File_2.png" width="200" title="Logo Option 2" alt="Logo 2">
+  <img src="./NexusVibe%20technologies%20-%20Final%20Logo%20File/Aapki_Logo_File_3.png" width="200" title="Logo Option 3" alt="Logo 3">
+</p>
+
 **Objective:** Build a solid visual identity and launch-ready social media content.
 
 *   **Tasks Completed:**
